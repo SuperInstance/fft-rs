@@ -1,0 +1,10 @@
+[package]
+name = "fft-rs"
+version = "0.1.0"
+edition = "2021"
+description = "Fast Fourier Transform implementations: Cooley-Tukey radix-2, iterative FFT, inverse FFT, convolution via FFT, and DCT-II"
+license = "MIT OR Apache-2.0"
+categories = ["algorithms", "mathematics", "science"]
+keywords = ["fft", "fourier", "dft", "dct", "convolution"]
+repository = "https://github.com/SuperInstance/fft-rs"
+readme = "README.md"
